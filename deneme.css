@@ -1,0 +1,34 @@
+h2 {
+    color: blue;
+    font-size: 20px;
+}
+p {
+    color: brown;
+    font-size: 20px;
+}
+h4 {
+    color: rgb(79, 63, 105);
+    font-size: 20px;
+}
+ol {
+    list-style-position:inside;
+    color: blue;
+}
+h3 {
+    color: blueviolet;
+    
+    font-size: 20px;
+    list-style-position: center;
+}
+div{
+    margin: auto; width: 50%; 
+     text-align: center;
+     
+}
+ul {
+    list-style-position:inside;
+    list-style-type: lower-latin;
+    color: rgb(141, 43, 84);
+    text-align: left;
+    list-style-image: -moz-linear-gradient(20px);
+}
